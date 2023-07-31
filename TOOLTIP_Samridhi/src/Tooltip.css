@@ -1,0 +1,23 @@
+.tooltip {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-shrink: 0;
+    text-align: center;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    top: 41px;
+    left: -35px;
+}
+
+
+  .nodge-img {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-color: transparent transparent black transparent;
+  }
